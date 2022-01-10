@@ -22,8 +22,11 @@
 #    supports lots of programming lang -JAVA,C#,Pyhton, Ruby, Obj-C...
 #    supports platforms - Windows Linux MAc
 #
-
-
+#####components######
+#Selenium GRID --> is used to run multiple test across different browsers, operating systems, and machines in parallel
+#Selenium Web Driver-->is advanced than selenium RC, and it has st of libraries in java for automating web app
+#Selenium Remote controller --> has set of libraries in java,used for automating web app (x)
+#Selenium IDE --> firefox plugin which is used for record and play back user actions(that can be saved and pşayed back)
 
 
 Feature: Test Login Feature
