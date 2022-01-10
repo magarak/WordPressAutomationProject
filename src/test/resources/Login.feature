@@ -14,6 +14,17 @@
 
 #examplesla aynı senaryo içersinde birden fazla data ile senaryo koşmaca--> Data Driven Concept
 #
+#####SELENIUM########
+#  web app automation tool--> not for stand alones(desktop app) or mobile app
+#####features######
+#    open source- free
+#    supports any kinda browsers -firefox,chrome,opera,IE
+#    supports lots of programming lang -JAVA,C#,Pyhton, Ruby, Obj-C...
+#    supports platforms - Windows Linux MAc
+#
+
+
+
 
 Feature: Test Login Feature
 
